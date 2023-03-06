@@ -1,4 +1,4 @@
-name: Continuous Integration for the Loan API
+name: Deploy to Amazon ECS
 
 on:
   push:
